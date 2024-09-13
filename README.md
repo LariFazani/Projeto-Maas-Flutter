@@ -7,10 +7,8 @@ Este repositório é da versão do projeto em Flutter
 
 ## Tecnologias:
 
-* **Linguagem de programação:** Kotlin, linguagem de programação moderna e concisa para desenvolvimento Android.
-* **IDE:** Android Studio, ambiente de desenvolvimento integrado (IDE) oficial para aplicativos Android.
-* **Bibliotecas:** Android e Androidx.
-* **Banco de dados:** SQL Lite.
+* **Linguagem de programação:** Flutter, linguagem de programação moderna e concisa para desenvolvimento Android.
+* **IDE:** VSCoded.
 * **API:** SPTrans API para horários e trajetos de ônibus, Bike Sampa e a API do Waze.
 
 ## Funcionalidades:
